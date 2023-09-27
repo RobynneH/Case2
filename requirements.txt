@@ -3,3 +3,5 @@ numpy==1.24.4
 plotly==5.16.1
 kaggle==1.5.16
 streamlit==1.26.0
+matplotlib
+seaborn

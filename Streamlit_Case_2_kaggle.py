@@ -22,7 +22,7 @@ import seaborn as sns
 # In[2]:
 
 
-get_ipython().system('kaggle datasets download -d teejmahal20/airline-passenger-satisfaction')
+~/kaggle datasets download -d teejmahal20/airline-passenger-satisfaction
 
 
 # In[3]:
